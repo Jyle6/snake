@@ -1,11 +1,9 @@
 package snake
 
-import com.badlogic.gdx.*
-
-object PreparationLoader {
-    @JvmStatic
-    fun main(args: Array<String>) {
-
-        Main().load()
+class PreparationLoader {
+    companion object {
+        fun main(args: Array<String>) {
+            Main().load()
+        }
     }
 }

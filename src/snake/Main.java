@@ -1,15 +1,12 @@
 package snake;
 
-import com.badlogic.gdx.Game;
+import java.awt.*;
 
-public class Main extends Game implements Loadable {
+@Graphics
+public class Main implements Loadable {
+    public Frame frame = new Frame("Snake");
     @Override
     public void load() {
-
-    }
-
-    @Override
-    public void create() {
-
+        //frame.setSize();
     }
 }
