@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d950337-8f4c-4707-885e-4da3f9b15b86" name="Changes" comment="">
-      <change beforePath="$USER_HOME$/projects/java/snake/build.gradle" beforeDir="false" afterPath="$USER_HOME$/projects/java/snake/build.gradle" afterDir="false" />
+      <change beforePath="$USER_HOME$/projects/java/snake/.github/workflows/build.yml" beforeDir="false" afterPath="$USER_HOME$/projects/java/snake/.github/workflows/build.yml" afterDir="false" />
+      <change beforePath="$USER_HOME$/projects/java/snake/.gitignore" beforeDir="false" afterPath="$USER_HOME$/projects/java/snake/.gitignore" afterDir="false" />
+      <change beforePath="$USER_HOME$/projects/java/snake/.idea/gradle.xml" beforeDir="false" afterPath="$USER_HOME$/projects/java/snake/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/projects/java/snake/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/projects/java/snake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/projects/java/snake/build.gradle" beforeDir="false" />
+      <change beforePath="$USER_HOME$/projects/java/snake/gradle.properties" beforeDir="false" afterPath="$USER_HOME$/projects/java/snake/gradle.properties" afterDir="false" />
+      <change beforePath="$USER_HOME$/projects/java/snake/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +36,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="snake" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="snake" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -46,15 +47,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/projects/java/snake" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jyle6&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Jyle6/snake.git&quot;,
+    &quot;accountId&quot;: &quot;0e391d91-053c-400a-b565-9231d7b0a40c&quot;
+  }
+}</component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-9.2.0-bin/11i5gvueggl8a5cioxuftxrik/gradle-9.2.0" javaHome="/usr/lib/jvm/java-17-openjdk" gradleVersion="9.2.0" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="39vwb9aACXSjj6JvjKvGdzImhZ0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,11 +80,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.snake::home:jyle:projects:java:snake [:snake.PreparationLoader.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/jyle/projects/java/snake/settings.gradle.kts",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
